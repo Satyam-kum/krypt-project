@@ -4,9 +4,9 @@ require("@nomicfoundation/hardhat-toolbox");
 module.exports = {
   solidity: "0.8.28",
   networks: {
-    Sepolia: {
-      url: 'https://thirdweb.com/team/8bcacc688f44fc3c88061f4db7a1014456837659/Krypt-project-19af2a',
-      accounts: ['fe16d5f501b0a932d6811a067b5a6d2f0f1576d54a13d7453f89f2670dfa4393'],
+    sepolia: {
+      url: 'https://eth-sepolia.g.alchemy.com/v2/AXnQYXpquyd3ZvCGFuUPe1gDZQaUIfZh',
+      accounts: ['9def704a65cecb2fe8245e2aced12b7dfab2ea1f49012961205884622f8d9d5d'],
     },
   },
 };

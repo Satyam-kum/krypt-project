@@ -5,6 +5,7 @@
     "hardhat": "^2.22.17"
   },
   "dependencies": {
+    "alchemy-sdk": "^3.5.1",
     "hardhat-project": "file:"
   }
 }
